@@ -21,11 +21,11 @@
   <a href="https://x.com/kunjarora23" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunjarora" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/kunjarora223" target="blank">
+  <a href="https://www.linkedin.com/in/kunjarora23/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunjarora" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://www.leetcode.com/kunjarora23" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunjarora" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
